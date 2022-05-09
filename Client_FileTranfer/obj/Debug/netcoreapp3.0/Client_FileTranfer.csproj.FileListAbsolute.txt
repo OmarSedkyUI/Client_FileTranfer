@@ -1,0 +1,11 @@
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\bin\Debug\netcoreapp3.0\Client_FileTranfer.exe
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\bin\Debug\netcoreapp3.0\Client_FileTranfer.deps.json
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\bin\Debug\netcoreapp3.0\Client_FileTranfer.runtimeconfig.json
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\bin\Debug\netcoreapp3.0\Client_FileTranfer.runtimeconfig.dev.json
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\bin\Debug\netcoreapp3.0\Client_FileTranfer.dll
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\bin\Debug\netcoreapp3.0\Client_FileTranfer.pdb
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\obj\Debug\netcoreapp3.0\Client_FileTranfer.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\obj\Debug\netcoreapp3.0\Client_FileTranfer.AssemblyInfoInputs.cache
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\obj\Debug\netcoreapp3.0\Client_FileTranfer.AssemblyInfo.cs
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\obj\Debug\netcoreapp3.0\Client_FileTranfer.dll
+C:\Users\Omar\Desktop\Client_FileTranfer\Client_FileTranfer\obj\Debug\netcoreapp3.0\Client_FileTranfer.pdb
